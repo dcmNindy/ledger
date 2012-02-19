@@ -817,8 +817,7 @@ path resolve_path(const path& pathname)
   temp.normalize();
 
   if (! exists(temp))
-    throw_(std::runtime_error,
-           _("Cannot read '%1'") << pathname);
+    throw_(std::runtime_error, _("Cannot read %1") << pathname);
   return temp;
 }
 

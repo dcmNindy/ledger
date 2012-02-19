@@ -113,12 +113,9 @@ std::size_t session_t::read_data(const string& master_account)
          cache->should_load(HANDLER(file_).data_files) &&
          cache->load(*journal.get()))) {
 #endif // HAVE_BOOST_SERIALIZATION
-    if (price_db_path) {
-      if (exists(*price_db_path)) {
-        if (journal->read(*price_db_path) > 0)
-          throw_(parse_error, _("Transactions not allowed in price history file"));
-      }
-    }
+    if (price_db_path && exists(*price_db_path) &&
+        journal->read(*price_db_path) > 0)
+      throw_(parse_error, _("Transactions not allowed in price history file"));
 
     foreach (const path& pathname, HANDLER(file_).data_files) {
       if (pathname == "-") {
@@ -233,16 +230,15 @@ value_t session_t::fn_lot_tag(call_scope_t& args)
     return NULL_VALUE;
 }
 
-void session_t::normalize_options(const string& verb){
-	if(HANDLED(download)){
-		DEBUG("option.normalize", "normalizing download option");
-		if(!HANDLED(getquote_)){
-			throw_(std::runtime_error, _("--download specified without --getquote"));
-		}
-		if(!HANDLED(price_exp_)){
-			throw_(std::runtime_error, _("--download specified without --price-exp"));
-		}
-	}
+void session_t::normalize_options(const string& verb)
+{
+  if (HANDLED(download)) {
+    DEBUG("option.normalize", "normalizing download option");
+    if (!HANDLED(getquote_))
+      throw_(std::runtime_error, _("--download specified without --getquote"));
+    if (!HANDLED(price_exp_))
+      throw_(std::runtime_error, _("--download specified without --price-exp"));
+  }
 }
 
 option_t<session_t> * session_t::lookup_option(const char * p)
@@ -254,9 +250,11 @@ option_t<session_t> * session_t::lookup_option(const char * p)
   case 'Z':
     OPT_CH(price_exp_);
     break;
-    //  case 'c':
-    //OPT(cache_);
-    //break;
+#if defined(HAVE_BOOST_SERIALIZATION)
+  case 'c':
+    OPT(cache_);
+    break;
+#endif /* HAVE_BOOST_SERIALIZATION */
   case 'd':
     OPT(download); // -Q
     else OPT(decimal_comma);

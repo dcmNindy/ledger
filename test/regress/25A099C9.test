@@ -1,17 +1,1247 @@
-test -f $sourcepath/src/amount.h reg -> 7
+test -f $sourcepath/src/amount.h reg -> 110
 __ERROR__
-While parsing file "$sourcepath/src/amount.h", line 66: 
+While parsing file "$sourcepath/src/amount.h", line 1:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 2:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 3:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 4:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 5:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 6:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 7:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 8:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 9:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 10:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 11:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 12:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 13:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 14:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 15:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 16:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 17:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 18:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 19:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 20:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 21:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 22:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 23:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 24:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 25:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 26:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 27:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 28:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 29:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 30:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 32:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 33:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 34:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 36:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 37:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 38:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 39:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 40:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 41:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 42:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 43:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 44:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 45:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 46:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 47:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 48:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 49:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 50:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 51:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 52:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 60:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 62:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 63:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 64:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 66:
 Error: No quantity specified for amount
-While parsing file "$sourcepath/src/amount.h", line 726: 
+While parsing file "$sourcepath/src/amount.h", line 68:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 69:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 70:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 71:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 72:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 73:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 74:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 75:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 76:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 77:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 78:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 80:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 82:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 83:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 84:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 85:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 86:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 87:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 88:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 89:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 90:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 91:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 92:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 93:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 94:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 95:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 96:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 97:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 98:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 99:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 100:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 101:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 102:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 103:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 104:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 106:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 108:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 109:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 111:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 112:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 113:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 115:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 116:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 117:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 118:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 120:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 121:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 122:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 123:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 124:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 126:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 128:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 129:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 131:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 132:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 133:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 135:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 136:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 137:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 138:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 139:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 140:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 142:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 143:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 144:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 146:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 147:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 149:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 150:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 151:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 153:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 154:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 155:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 156:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 157:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 158:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 159:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 160:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 161:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 162:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 163:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 164:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 165:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 166:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 167:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 168:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 169:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 171:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 173:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 174:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 175:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 176:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 177:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 178:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 179:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 180:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 182:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 183:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 184:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 185:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 186:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 187:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 188:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 190:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 191:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 193:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 194:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 195:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 196:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 197:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 198:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 199:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 200:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 201:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 202:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 203:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 204:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 205:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 206:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 207:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 208:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 209:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 210:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 211:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 212:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 213:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 214:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 215:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 216:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 217:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 219:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 220:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 221:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 222:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 223:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 224:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 225:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 226:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 227:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 229:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 230:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 231:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 232:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 233:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 234:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 235:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 236:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 237:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 238:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 240:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 242:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 243:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 245:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 246:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 247:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 248:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 249:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 251:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 252:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 253:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 254:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 256:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 257:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 258:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 259:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 260:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 261:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 262:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 263:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 264:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 265:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 266:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 267:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 269:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 271:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 272:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 273:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 275:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 276:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 277:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 278:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 279:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 280:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 282:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 283:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 284:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 285:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 286:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 287:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 289:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 291:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 292:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 294:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 295:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 296:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 297:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 298:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 299:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 300:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 301:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 302:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 303:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 305:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 306:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 307:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 308:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 309:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 310:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 311:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 312:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 313:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 315:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 316:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 317:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 319:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 320:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 321:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 322:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 323:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 324:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 325:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 326:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 327:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 328:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 330:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 332:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 333:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 334:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 335:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 336:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 337:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 338:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 339:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 340:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 341:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 342:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 344:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 345:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 346:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 347:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 348:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 349:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 350:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 351:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 353:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 354:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 355:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 356:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 357:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 358:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 359:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 360:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 362:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 363:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 364:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 365:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 366:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 367:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 368:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 369:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 371:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 372:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 373:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 374:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 375:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 376:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 377:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 378:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 379:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 380:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 382:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 383:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 384:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 385:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 386:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 387:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 388:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 389:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 390:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 391:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 393:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 394:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 395:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 396:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 397:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 398:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 399:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 400:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 401:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 402:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 403:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 405:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 407:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 409:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 410:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 411:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 413:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 415:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 416:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 417:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 418:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 419:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 420:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 422:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 423:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 425:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 426:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 427:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 429:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 430:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 432:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 433:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 434:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 435:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 436:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 438:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 439:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 440:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 441:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 442:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 443:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 445:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 446:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 447:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 448:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 450:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 451:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 452:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 453:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 454:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 455:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 456:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 458:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 460:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 461:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 462:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 464:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 465:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 466:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 467:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 468:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 470:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 471:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 472:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 474:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 475:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 476:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 478:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 479:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 481:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 482:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 483:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 485:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 486:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 488:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 489:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 490:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 491:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 492:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 493:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 494:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 495:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 496:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 498:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 499:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 500:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 501:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 502:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 503:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 505:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 507:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 508:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 509:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 511:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 512:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 514:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 515:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 517:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 519:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 520:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 521:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 522:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 523:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 525:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 526:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 528:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 529:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 530:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 531:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 533:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 534:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 535:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 536:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 537:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 538:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 539:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 540:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 541:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 543:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 544:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 545:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 547:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 548:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 549:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 550:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 552:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 554:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 555:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 556:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 558:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 559:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 560:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 562:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 563:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 564:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 565:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 567:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 568:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 570:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 571:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 572:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 574:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 575:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 576:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 577:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 578:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 580:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 581:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 582:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 583:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 585:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 586:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 588:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 589:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 590:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 591:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 593:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 594:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 595:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 596:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 597:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 598:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 599:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 600:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 602:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 604:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 605:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 606:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 608:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 609:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 611:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 612:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 613:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 614:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 615:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 617:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 618:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 620:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 621:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 622:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 623:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 624:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 625:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 627:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 628:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 629:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 630:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 632:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 633:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 634:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 635:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 637:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 638:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 639:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 641:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 642:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 644:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 646:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 647:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 648:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 649:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 650:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 651:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 652:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 653:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 654:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 655:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 657:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 658:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 660:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 662:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 663:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 664:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 666:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 667:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 668:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 669:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 671:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 672:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 673:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 674:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 675:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 676:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 677:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 678:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 685:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 686:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 688:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 690:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 691:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 692:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 694:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 696:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 697:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 698:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 699:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 701:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 702:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 703:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 704:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 705:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 706:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 707:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 708:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 709:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 711:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 714:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 715:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 717:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 719:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 720:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 723:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 724:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 726:
 Error: Invalid date/time: line amount_t amoun
-While parsing file "$sourcepath/src/amount.h", line 732: 
+While parsing file "$sourcepath/src/amount.h", line 727:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 728:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 729:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 730:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 732:
 Error: Invalid date/time: line string amount_
-While parsing file "$sourcepath/src/amount.h", line 738: 
+While parsing file "$sourcepath/src/amount.h", line 733:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 734:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 735:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 736:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 738:
 Error: Invalid date/time: line string amount_
-While parsing file "$sourcepath/src/amount.h", line 744: 
+While parsing file "$sourcepath/src/amount.h", line 739:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 740:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 741:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 742:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 744:
 Error: Invalid date/time: line string amount_
-While parsing file "$sourcepath/src/amount.h", line 750: 
+While parsing file "$sourcepath/src/amount.h", line 745:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 746:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 747:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 748:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 750:
 Error: Invalid date/time: line std::ostream& 
-While parsing file "$sourcepath/src/amount.h", line 757: 
+While parsing file "$sourcepath/src/amount.h", line 751:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 752:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 753:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 754:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 755:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 756:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 757:
 Error: Invalid date/time: line std::istream& 
+While parsing file "$sourcepath/src/amount.h", line 758:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 759:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 760:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 762:
+Error: Problem line detected.
+While parsing file "$sourcepath/src/amount.h", line 763:
+Error: Line begins with whitespace
+While parsing file "$sourcepath/src/amount.h", line 765:
+Error: Problem line detected.
 end test

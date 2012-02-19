@@ -88,7 +88,9 @@ public:
 
   void report_options(std::ostream& out)
   {
-    //HANDLER(cache_).report(out);
+#if defined(HAVE_BOOST_SERIALIZATION)
+    HANDLER(cache_).report(out);
+#endif // HAVE_BOOST_SERIALIZATION
     HANDLER(download).report(out);
     HANDLER(decimal_comma).report(out);
     HANDLER(file_).report(out);
@@ -109,7 +111,9 @@ public:
    * Option handlers
    */
 
-  //OPTION(session_t, cache_);
+#if defined(HAVE_BOOST_SERIALIZATION)
+  OPTION(session_t, cache_);
+#endif // HAVE_BOOST_SERIALIZATION
   OPTION(session_t, download); // -Q
 
   OPTION_(session_t, decimal_comma, DO() {

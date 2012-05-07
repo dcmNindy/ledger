@@ -414,6 +414,7 @@ class PrepareBuild(CommandLineApp):
             'PYTHON_HOME':     '/usr',
             'PYTHON_VERSION':  '2.7',
             'LEDGER_PRODUCTS': None,
+            'AR':              'ar',
             'CC':              'gcc',
             'CPPFLAGS':        '',
             'CFLAGS':          '',
@@ -485,6 +486,9 @@ class PrepareBuild(CommandLineApp):
         op.add_option('', '--clang', action='store_true',
                       dest='use_clang', default=False,
                       help='Use the Clang C++ compiler')
+        op.add_option('', '--intel', action='store_true',
+                      dest='use_intel', default=False,
+                      help='Use the Intel C++ compiler')
         op.add_option('', '--help', action="callback",
                       callback=self.option_help,
                       help='Show this help text')
@@ -727,7 +731,7 @@ class PrepareBuild(CommandLineApp):
         keys = environ.keys()
         keys.sort()
         for key in keys:
-            if key in ['PATH', 'CC', 'LD', 'CXX'] or \
+            if key in ['PATH', 'CC', 'LD', 'CXX', 'AR'] or \
                key.endswith('FLAGS'):
                 self.log.debug('  %s=%s' % (key, environ[key]))
 
@@ -1028,14 +1032,20 @@ class PrepareBuild(CommandLineApp):
         if self.options.use_cpp11:
             self.CXXFLAGS.append('-std=c++11')
 
-        if not self.options.use_clang:
-            self.CXXFLAGS.append('--gcc47')
+        if self.options.gcc47:
+            self.CXXFLAGS.append("--gcc47")
+        elif self.options.gcc48:
+            self.CXXFLAGS.append("--gcc48")
+        elif self.options.use_clang:
+            self.CXXFLAGS.append("--clang")
+        elif self.options.use_intel:
+            self.envvars['AR'] = "/opt/intel/bin/xiar"
 
         if self.current_flavor == 'debug':
             self.configure_args.append('--disable-shared')
         elif self.current_flavor == 'gcov':
             self.configure_args.append('--disable-shared')
-        else:
+        elif not self.options.use_intel:
             self.CXXFLAGS.append('-march=nocona')
             self.CXXFLAGS.append('-msse3')
 
@@ -1145,6 +1155,9 @@ class PrepareBuild(CommandLineApp):
 
     def option_pch(self, option=None, opt_str=None, value=None, parser=None):
         self.log.debug('Saw option --pch')
+
+        if self.options.use_intel:
+            return
 
         self.configure_args.append('--enable-pch')
 
